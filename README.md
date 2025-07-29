@@ -87,11 +87,11 @@
 
 ## Books
 
-- *Machine Learning Engineering* by Andriy Burkov - A book on building scalable machine learning infrastructure.
-- *Building Machine Learning Powered Applications* by Emmanuel Ameisen - A guide to building robust ML applications in production.
-- *Designing Data-Intensive Applications* by Martin Kleppmann - A comprehensive guide to building scalable and reliable data systems.
-- *MLOps: Data Science in Production* by Mark Treveil and The Dotscience Team - A book on best practices for MLOps and model deployment.
-- *Reliable Machine Learning* by Cathy Chen - A book on creating resilient machine learning infrastructure.
+- [Machine Learning Engineering](https://tinyurl.com/yphttdp2) by Andriy Burkov - A book on building scalable machine learning infrastructure.
+- [Building Machine Learning Powered Applications](https://tinyurl.com/36d66dwk) by Emmanuel Ameisen - A guide to building robust ML applications in production.
+- [Designing Data-Intensive Applications](https://tinyurl.com/y74fyb66) by Martin Kleppmann - A comprehensive guide to building scalable and reliable data systems.
+- MLOps: Data Science in Production by Mark Treveil and The Dotscience Team - A book on best practices for MLOps and model deployment.
+- [Reliable Machine Learning](https://tinyurl.com/4ezxcbm9) by Cathy Chen - A book on creating resilient machine learning infrastructure.
 
 ## Community
 
@@ -108,3 +108,5 @@ Contributions are welcome!
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+*This awesome list contains affiliate links.*
